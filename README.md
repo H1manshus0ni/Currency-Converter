@@ -2,8 +2,9 @@
 
 i made this project using taildwind css and `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json` api .
 
-to start the project : npm install
-                       npm run dev
+to start the project : " npm install " 
+                      
+                        "npm run dev"
 
 
 
