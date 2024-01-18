@@ -5,9 +5,9 @@ i made this project using taildwind css and `https://cdn.jsdelivr.net/gh/fawazah
 to start the project : 
 
 
-                       " npm install " 
+                         npm install 
                       
-                        "npm run dev"
+                        npm run dev 
 
 
 
