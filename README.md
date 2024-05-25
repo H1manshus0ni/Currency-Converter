@@ -1,5 +1,8 @@
 # React + Vite
 
+
+link to the project : https://visionary-bonbon-272021.netlify.app/
+
 i made this project using taildwind css and `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json` api .
 
 to start the project : 
